@@ -7,8 +7,13 @@ function Hero() {
         <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold mb-6">
           HopeLine.AI
         </h1>
-        <p className="text-lg sm:text-xl lg:text-2xl mb-8">
-          Empowering Your Body's Natural Balance with AI-Driven Insights.
+        <p className="text-lg sm:text-xl lg:text-2xl mb-2">
+          End Drugs, End Violence – A Safer Home Begins with a Drug-Free Life!
+        </p>
+        <p className="text-lg text-green-700 sm:text-xl lg:text-2xl mb-4">
+          HopeLine.AI is a free, confidential, and secure platform that helps
+          you or your loved ones Get started today and take the first step
+          towards a healthier, happier life!
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <a

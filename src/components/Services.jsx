@@ -72,7 +72,7 @@ const Services = () => {
   }, []);
 
   return (
-    <section className="bg-gray-100 relative overflow-hidden min-h-screen px-8 py-20">
+    <section className="bg-gradient-to-b from-gray-100 to-green-100 relative overflow-hidden min-h-screen px-8 py-20">
       {/* Services Section */}
       <div className="mb-32">
         <h2 className="text-6xl font-bold text-center text-black mb-16">

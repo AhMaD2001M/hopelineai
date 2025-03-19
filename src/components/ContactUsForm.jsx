@@ -24,7 +24,7 @@ const ContactUsForm = () => {
   };
 
   return (
-    <div className="max-w-screen-xl mx-auto p-8">
+    <div className="max-w-screen-xl mt-24 bg-green-100 mx-auto p-8">
       <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
         {/* Left Side: Cards in Column */}
         <div className="space-y-6">

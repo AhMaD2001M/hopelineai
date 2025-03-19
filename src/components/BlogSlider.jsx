@@ -95,7 +95,7 @@ const BlogSlider = () => {
   };
 
   return (
-    <section className="blog-slider bg-gradient-to-b from-gray-100 to-green-100 text-black py-4 relative">
+    <section className="blog-slider bg-gradient-to-b from-green-100 to-green-200 text-black py-4 relative">
       <h2 className="text-5xl font-bold text-center mt-8 mb-12 text-transparent bg-clip-text bg-gradient-to-r py-8 from-black via-red-950 to-red-500">
         Latest Blogs
       </h2>
